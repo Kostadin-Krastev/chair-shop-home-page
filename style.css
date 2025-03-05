@@ -120,6 +120,9 @@ img {
 
 /* TESTIMONIAL */
 .testimonial-section {
+  padding: 24px;
+  background-color: #087f5b;
+  color: #fff;
 }
 
 .testimonial-box {
@@ -177,4 +180,5 @@ h3 {
 footer {
   margin-bottom: 48px;
   font-size: 14px;
+  color: #495057;
 }
