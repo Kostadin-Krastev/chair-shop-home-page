@@ -50,8 +50,6 @@ h2 {
 .btn:link,
 .btn:visited {
   display: inline-block;
-  padding: 16px 32px;
-  font-size: 18px;
   font-weight: 500;
   text-decoration: none;
   text-transform: uppercase;
@@ -64,6 +62,15 @@ h2 {
   background-color: #099268;
 }
 
+.btn--big {
+  padding: 16px 32px;
+  font-size: 18px;
+}
+
+.btn--small {
+  padding: 8px 12px;
+  font-size: 14px;
+}
 /* ------------------------ */
 /* COMPONENT STYLES */
 /* ------------------------ */
