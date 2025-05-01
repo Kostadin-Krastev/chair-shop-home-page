@@ -94,7 +94,7 @@ header {
 }
 
 h1 {
-  margin-bottom: 24px;
+  margin-bottom: 32px;
   /* text-shadow: 0 20px 3px rgba(0, 0, 0, 0.1); */
   font-size: 42px;
   line-height: 1.1;
@@ -115,7 +115,7 @@ img {
 .features-icon {
   width: 32px;
   height: auto;
-  margin-bottom: 16px;
+  margin-bottom: 24px;
   stroke: #087f5b;
 }
 
