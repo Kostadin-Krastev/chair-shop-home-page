@@ -152,6 +152,11 @@ img {
 .testimonial-text {
   font-style: italic;
   margin-bottom: 24px;
+  color: #e6fcf5;
+}
+
+.testimonial-author {
+  color: #c3fae8;
 }
 
 /* CHAIRS */
